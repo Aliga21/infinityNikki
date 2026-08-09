@@ -1,10 +1,8 @@
-# ok-script-app
+# 无限暖暖自动化工具
 
 [English](README_en.md) | 中文
 
-ok-script-app 是一个基于 [ok-script](https://github.com/ok-oldking/ok-script) 的 Python 自动化项目模板。它提供了可直接运行的 GUI、任务示例、配置控件示例、OCR 示例、模板匹配示例、测试用例和打包配置，适合快速创建面向 Windows 原生游戏、Android 模拟器或浏览器游戏的自动化项目。
-
-这个仓库不是某个具体游戏的自动化成品，而是 ok-script 应用的起步工程和功能演示。
+基于 [ok-script](https://github.com/ok-oldking/ok-script) 的「无限暖暖」Windows 自动化项目。提供 GUI 界面、可扩展任务系统、OCR 与模板匹配能力，以及自动化打包发布流程。
 
 ### 功能演示
 

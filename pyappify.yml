@@ -1,9 +1,10 @@
-name: "ok-script-app"
+name: "无限暖暖"
 uac: true
 icon: "icons/icon.png"
 profiles:
   - name: "China"
-    git_url: "https://cnb.cool/ok-oldking/ok-script-app.git"
+    # TODO: 替换为你的源仓库或更新仓库 URL（测试阶段可共用源仓库）
+    git_url: "https://github.com/your-username/your-repo.git"
     admin: true
     main_script: "main.py"
     requires_python: "3.12"
@@ -13,6 +14,7 @@ profiles:
     # PYTHONPATH: "your/default/path" # Optional, will be "" if missing
 
   - name: "Global"
-    git_url: "https://github.com/ok-oldking/ok-script-app-update.git"
+    # TODO: 替换为你的源仓库或更新仓库 URL（测试阶段可与 China 相同）
+    git_url: "https://github.com/your-username/your-repo.git"
     main_script: "main.py"
     requirements: "requirements.txt"

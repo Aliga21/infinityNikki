@@ -1,10 +1,8 @@
-# ok-script-app
+# Infinity Nikki Automation Tool
 
 English | [中文](README.md)
 
-ok-script-app is a Python automation project template built on [ok-script](https://github.com/ok-oldking/ok-script). It includes a runnable GUI app, task examples, configuration widget examples, OCR and template matching examples, tests, localization files, and packaging configuration for native Windows games, Android emulators, and browser games.
-
-This repository is not a finished automation tool for a specific game. It is a starter project and feature demo for building your own ok-script application.
+"Infinity Nikki" Windows automation project built on [ok-script](https://github.com/ok-oldking/ok-script). Provides a GUI interface, extensible task system, OCR and template matching capabilities, plus automated packaging and release workflows.
 
 ### Demo
 
